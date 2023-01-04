@@ -53,10 +53,10 @@ button {
   /* Todo Header */
   .todo-container {
     width: 100%;
-    max-width: 450px;
+    max-width: 500px;
     margin: 3rem auto 0;
     background-color: #c1dce3;
-    padding: 1.5rem;
+    padding: 24px;
     border-radius: 15px;
   }
   
